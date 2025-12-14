@@ -1,6 +1,7 @@
-herename: Build Android APK
+name: Build Android APK
 
-on: [push]
+on:
+  push:
 
 jobs:
   build:
