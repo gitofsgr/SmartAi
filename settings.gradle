@@ -1,0 +1,2 @@
+hererootProject.name = "ChatGPTWebView"
+include(":app")
